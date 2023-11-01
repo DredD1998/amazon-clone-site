@@ -18,7 +18,7 @@
 }
 
 .logo{
-    background-image: url("logo3.png");
+    background-image: url("images/logo3.png");
     background-size: cover;
     height: 40px;
     width: 100%;
@@ -163,7 +163,7 @@ span{
 }
 
 .banner-section{
-    background-image: url('banner.jpg');
+    background-image: url('images/banner.jpg');
     background-size: cover;
    
     height: 300px;
@@ -310,7 +310,7 @@ span{
 
 .panel-logo{
     
-    background-image: url("logo3.png");
+    background-image: url("images/logo3.png");
     background-size: cover;
     height: 50px;
     width: 130px
