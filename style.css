@@ -101,6 +101,15 @@
   
 }
 
+.nav-search{
+    border: 1.7px solid transparent;
+    padding: 4px;
+}
+.nav-search:hover{
+    border: 1.7px solid orange;
+    padding: 4px;
+}
+
 
 
 span{
